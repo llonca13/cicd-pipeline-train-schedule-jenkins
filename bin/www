@@ -3,7 +3,7 @@
 /**
  * Module dependencies.
  */
-
+# neki kurac
 var app = require('../app');
 var debug = require('debug')('cicd-pipeline-train-schedule-git:server');
 var http = require('http');
